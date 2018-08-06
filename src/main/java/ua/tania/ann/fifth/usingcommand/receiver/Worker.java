@@ -1,4 +1,4 @@
-package ua.tania.ann.third.usingcommand.receiver;
+package ua.tania.ann.fifth.usingcommand.receiver;
 
 /**
  * Created by Таня on 06.08.2018.
