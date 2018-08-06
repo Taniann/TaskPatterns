@@ -1,9 +1,9 @@
-package ua.tania.ann.second.usingbuilder.auxiliary;
+package ua.tania.ann.second.builder.auxiliary;
 
 /**
  * Created by Таня on 06.08.2018.
  */
-public class HotelReservation {
+public class Flight {
     private boolean isNeed = false;
 
     public boolean isNeed() {
@@ -13,5 +13,4 @@ public class HotelReservation {
     public void setNeed(boolean need) {
         isNeed = need;
     }
-
 }

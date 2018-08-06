@@ -1,9 +1,9 @@
-package ua.tania.ann.second.usingbuilder.product;
+package ua.tania.ann.second.builder.product;
 
-import ua.tania.ann.second.usingbuilder.auxiliary.Flight;
-import ua.tania.ann.second.usingbuilder.auxiliary.HotelReservation;
-import ua.tania.ann.second.usingbuilder.auxiliary.Insurance;
-import ua.tania.ann.second.usingbuilder.auxiliary.Transfer;
+import ua.tania.ann.second.builder.auxiliary.Flight;
+import ua.tania.ann.second.builder.auxiliary.HotelReservation;
+import ua.tania.ann.second.builder.auxiliary.Insurance;
+import ua.tania.ann.second.builder.auxiliary.Transfer;
 
 /**
  * Created by Таня on 06.08.2018.

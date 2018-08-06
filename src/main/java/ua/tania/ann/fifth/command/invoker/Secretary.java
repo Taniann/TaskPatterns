@@ -1,6 +1,6 @@
-package ua.tania.ann.fifth.usingcommand.invoker;
+package ua.tania.ann.fifth.command.invoker;
 
-import ua.tania.ann.fifth.usingcommand.command.Command;
+import ua.tania.ann.fifth.command.command.Command;
 
 import java.util.ArrayList;
 import java.util.List;

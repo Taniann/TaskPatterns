@@ -1,9 +1,9 @@
-package ua.tania.ann.second.usingbuilder.auxiliary;
+package ua.tania.ann.second.builder.auxiliary;
 
 /**
  * Created by Таня on 06.08.2018.
  */
-public class Flight {
+public class Insurance {
     private boolean isNeed = false;
 
     public boolean isNeed() {
@@ -13,4 +13,5 @@ public class Flight {
     public void setNeed(boolean need) {
         isNeed = need;
     }
+
 }

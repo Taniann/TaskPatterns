@@ -1,9 +1,9 @@
-package ua.tania.ann.fifth.usingcommand;
+package ua.tania.ann.fifth.command;
 
-import ua.tania.ann.fifth.usingcommand.command.Command;
-import ua.tania.ann.fifth.usingcommand.command.ReceiveSalaryCommand;
-import ua.tania.ann.fifth.usingcommand.invoker.Secretary;
-import ua.tania.ann.fifth.usingcommand.receiver.Worker;
+import ua.tania.ann.fifth.command.command.Command;
+import ua.tania.ann.fifth.command.command.ReceiveSalaryCommand;
+import ua.tania.ann.fifth.command.invoker.Secretary;
+import ua.tania.ann.fifth.command.receiver.Worker;
 
 /**
  * Created by Таня on 06.08.2018.

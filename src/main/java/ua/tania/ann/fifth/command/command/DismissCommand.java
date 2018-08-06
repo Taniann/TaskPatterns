@@ -1,6 +1,6 @@
-package ua.tania.ann.fifth.usingcommand.command;
+package ua.tania.ann.fifth.command.command;
 
-import ua.tania.ann.fifth.usingcommand.receiver.Worker;
+import ua.tania.ann.fifth.command.receiver.Worker;
 
 /**
  * Created by Таня on 06.08.2018.

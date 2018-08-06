@@ -1,11 +1,11 @@
-package ua.tania.ann.second.usingbuilder.director;
+package ua.tania.ann.second.builder.director;
 
-import ua.tania.ann.second.usingbuilder.auxiliary.Flight;
-import ua.tania.ann.second.usingbuilder.auxiliary.HotelReservation;
-import ua.tania.ann.second.usingbuilder.auxiliary.Insurance;
-import ua.tania.ann.second.usingbuilder.auxiliary.Transfer;
-import ua.tania.ann.second.usingbuilder.builder.TourBuilder;
-import ua.tania.ann.second.usingbuilder.product.Tour;
+import ua.tania.ann.second.builder.auxiliary.Flight;
+import ua.tania.ann.second.builder.auxiliary.HotelReservation;
+import ua.tania.ann.second.builder.auxiliary.Insurance;
+import ua.tania.ann.second.builder.auxiliary.Transfer;
+import ua.tania.ann.second.builder.builder.TourBuilder;
+import ua.tania.ann.second.builder.product.Tour;
 
 /**
  * Created by Таня on 06.08.2018.

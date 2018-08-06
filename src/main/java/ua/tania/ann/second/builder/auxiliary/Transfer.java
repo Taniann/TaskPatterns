@@ -1,9 +1,9 @@
-package ua.tania.ann.second.usingbuilder.auxiliary;
+package ua.tania.ann.second.builder.auxiliary;
 
 /**
  * Created by Таня on 06.08.2018.
  */
-public class Insurance {
+public class Transfer {
     private boolean isNeed = false;
 
     public boolean isNeed() {
