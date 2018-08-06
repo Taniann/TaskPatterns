@@ -5,7 +5,7 @@ import ua.tania.ann.second.usingbuilder.auxiliary.HotelReservation;
 import ua.tania.ann.second.usingbuilder.auxiliary.Insurance;
 import ua.tania.ann.second.usingbuilder.auxiliary.Transfer;
 import ua.tania.ann.second.usingbuilder.builder.TourBuilder;
-import ua.tania.ann.second.usingbuilder.director.CreationTour;
+import ua.tania.ann.second.usingbuilder.director.TravelAgency;
 import ua.tania.ann.second.usingbuilder.product.Tour;
 
 /**
@@ -13,7 +13,7 @@ import ua.tania.ann.second.usingbuilder.product.Tour;
  */
 public class RunPatternBuilder {
     public static void main(String[] args) {
-        CreationTour creationTour = new CreationTour();
+        TravelAgency travelAgency = new TravelAgency();
         TourBuilder tourBuilder = new TourBuilder();
 
         Transfer transfer = new Transfer();
@@ -28,7 +28,7 @@ public class RunPatternBuilder {
         Insurance insurance = new Insurance();
         insurance.setNeed(true);
 
-        Tour firstTour = creationTour.createTour(tourBuilder, transfer, flight, hotelReservation, insurance);
+        Tour firstTour = travelAgency.createTour(tourBuilder, transfer, flight, hotelReservation, insurance);
         System.out.println(firstTour);
     }
 }

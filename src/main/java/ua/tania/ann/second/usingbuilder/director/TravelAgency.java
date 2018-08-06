@@ -10,7 +10,7 @@ import ua.tania.ann.second.usingbuilder.product.Tour;
 /**
  * Created by Таня on 06.08.2018.
  */
-public class CreationTour {
+public class TravelAgency {
     public Tour createTour(TourBuilder tourBuilder, Transfer transfer, Flight flight,
                            HotelReservation hotelReservation, Insurance insurance) {
         tourBuilder.buildTour();
